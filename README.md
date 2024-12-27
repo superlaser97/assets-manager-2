@@ -20,14 +20,14 @@ JWT_SECRET=my_super_secret_jwt_key
 # Next.js environment
 NEXT_PUBLIC_API_URL=http://localhost:3000
 ```
-6. Start frontend and backend
+## Start Development Server
 > Open two terminal windows and run the following
 ```
-cd code/backend
+cd ./code/backend
 npm run build && npm run start
 ```
 ```
-cd code/frontend
+cd ./code/frontend
 npm run build && npm run start
 ```
 # Documentations
